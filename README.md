@@ -3,7 +3,7 @@
 Hi Super 👋
 
 I'm Chloe, and this is my take-home solution for the Data Engineering case. I used Python + pandas to clean and 
-transform the dataset into a tidy table. The logic is minimal, readable, and easy to run, just like something I’d 
+transform the dataset into a tidy table. The logic is minimal, readable, and easy to run. It's similar to something I’d 
 prototype in the early stages of building an actual data pipeline.
 
 ### What I did:
