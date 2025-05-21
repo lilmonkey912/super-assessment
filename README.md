@@ -3,7 +3,7 @@
 Hi Super 👋
 
 I'm Chloe, and this is my take-home solution for the Data Engineering case. I used Python + pandas to clean and 
-transform the dataset into a tidy table. The logic is minimal, readable, and easy to run — just like something I’d 
+transform the dataset into a tidy table. The logic is minimal, readable, and easy to run, just like something I’d 
 prototype in the early stages of building an actual data pipeline.
 
 ### What I did:
@@ -22,7 +22,7 @@ You can run it directly like this:
 ```bash
 /Library/Frameworks/Python.framework/Versions/3.8/bin/python3 superpandas.py
 
-Or, better — create a virtual environment:
+Or, create a virtual environment:
 
 python3 -m venv venv
 source venv/bin/activate
@@ -31,7 +31,7 @@ python superpandas.py
 
 That's it!
 
-Thanks for reading — I really enjoyed this one :)
+Thanks for reading! I really enjoyed this one :)
 
 – Chloe
 
