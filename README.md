@@ -21,13 +21,16 @@ You can run it directly like this:
 
 ```bash
 /Library/Frameworks/Python.framework/Versions/3.8/bin/python3 superpandas.py
+```bash
 
 Or, create a virtual environment:
+```bash
 
 python3 -m venv venv
 source venv/bin/activate
 pip install pandas
 python superpandas.py
+```bash
 
 That's it!
 
